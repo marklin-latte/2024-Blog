@@ -1,3 +1,6 @@
+
+publishDir = "docs
+
 [markup]
   # (Optional) To be able to use all Prism plugins, the theme enables unsafe
   # rendering by default
